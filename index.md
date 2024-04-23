@@ -15,5 +15,9 @@ Driven by his desire to find the legendary treasure, One Piece, and become the P
 Throughout the series, Luffy consistently demonstrates his willingness to risk everything for the sake of his friends and his dream. His simple yet profound belief in freedom and pursuing one's own path resonates deeply with both allies and enemies alike, earning him the respect and admiration of many in the world of "One Piece."
 
 ---
+<<<<<<< HEAD
 
 >>>>>>> 6eeac5467e170cb28c26adc507ee12e7b3c0951d
+=======
+![alt text](https://i.pinimg.com/564x/1b/43/8c/1b438c2c4208c53d32a39a3d8832a87e.jpg)
+>>>>>>> 04e752b64f004fb7bf3e087946816e5142433c75
